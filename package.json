@@ -1,0 +1,21 @@
+{
+  "name": "back-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.2.1",
+    "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "cypress-mysql": "^1.0.4",
+    "dotenv": "^16.4.7",
+    "mysql2": "^3.14.0"
+  }
+}

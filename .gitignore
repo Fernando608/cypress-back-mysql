@@ -1,0 +1,8 @@
+node_modules
+.idea
+.env
+cypress.env.json
+cypress/fixtures/
+cypress/support/
+package-lock.json
+package.json'
